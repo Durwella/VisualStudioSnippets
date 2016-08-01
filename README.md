@@ -9,3 +9,9 @@ If you do have existing code snippets, you'll need to clone to an empty director
 ## cmd
  
     git clone https://github.com/Durwella/VisualStudioSnippets.git "%USERPROFILE%\Documents\Visual Studio 2015\Code Snippets"
+
+# Snippets
+
+## `C#`
+
+`nullguard` - For throwing ArgumentNullException
